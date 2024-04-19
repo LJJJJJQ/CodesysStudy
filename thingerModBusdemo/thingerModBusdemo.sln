@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thingerModBusdemo", "thingerModBusdemo\thingerModBusdemo.csproj", "{3C8C70E3-3637-4628-A9BA-403039E96D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thingerModBusLIB", "thingerModBusLIB\thingerModBusLIB.csproj", "{DEF57543-9FF1-442C-A7F4-1FD479A3ADBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C8C70E3-3637-4628-A9BA-403039E96D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8C70E3-3637-4628-A9BA-403039E96D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8C70E3-3637-4628-A9BA-403039E96D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8C70E3-3637-4628-A9BA-403039E96D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF57543-9FF1-442C-A7F4-1FD479A3ADBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF57543-9FF1-442C-A7F4-1FD479A3ADBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF57543-9FF1-442C-A7F4-1FD479A3ADBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF57543-9FF1-442C-A7F4-1FD479A3ADBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC2783E-74EF-4666-AE6C-75F9E750253F}
+	EndGlobalSection
+EndGlobal

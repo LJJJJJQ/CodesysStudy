@@ -1,0 +1,12 @@
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\obj\Debug\net8.0\thingerModBusLIB.csproj.AssemblyReference.cache
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\obj\Debug\net8.0\thingerModBusLIB.GeneratedMSBuildEditorConfig.editorconfig
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\obj\Debug\net8.0\thingerModBusLIB.AssemblyInfoInputs.cache
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\obj\Debug\net8.0\thingerModBusLIB.AssemblyInfo.cs
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\obj\Debug\net8.0\thingerModBusLIB.csproj.CoreCompileInputs.cache
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\bin\Debug\net8.0\thingerModBusLIB.deps.json
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\bin\Debug\net8.0\thingerModBusLIB.dll
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\bin\Debug\net8.0\thingerModBusLIB.pdb
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\obj\Debug\net8.0\thingerModBusLIB.dll
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\obj\Debug\net8.0\refint\thingerModBusLIB.dll
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\obj\Debug\net8.0\thingerModBusLIB.pdb
+D:\林佳茜\ModBus\thingerModBusdemo\thingerModBusLIB\obj\Debug\net8.0\ref\thingerModBusLIB.dll
